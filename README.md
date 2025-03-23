@@ -62,10 +62,10 @@ Features:
 
 
 ## Built With
-- [Beego v2](https://github.com/beego/beego)
+- [Beego v2](https://beego.wiki/)
 - [Go 1.20+](https://golang.org/dl/)
 - [Rate Limiting (golang.org/x/time/rate)](https://pkg.go.dev/golang.org/x/time/rate)
-- [Beego XSRF Protection](https://beego.vip/docs/mvc/controller/xsrf.md)
+- [Beego XSRF Protection](https://beego.wiki/docs/mvc/controller/xsrf/)
 
 
 ## Contact
