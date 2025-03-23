@@ -1,3 +1,4 @@
+![Title Image](static/img/title.png)
 
 # Beego Simple API
 
