@@ -1,4 +1,4 @@
-![Title Image](static/img/title.png)
+<img src="static/img/title.png" alt="Title Image" width="400"/>
 
 # Beego Simple API
 
