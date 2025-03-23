@@ -1,4 +1,4 @@
-<img src="static/img/title.png" alt="Title Image" width="400"/>
+<img src="static/img/title.png" alt="Title Image" width="500" style="display:block; margin: 0 auto;"/>
 
 # Beego Simple API
 
