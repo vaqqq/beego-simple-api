@@ -1,0 +1,101 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: #f0f2f5;
+	margin: 0;
+}
+
+.container {
+	width: 95%;
+	max-width: 1000px; 
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+	padding: 40px; 
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+	margin-bottom: 20px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #555;
+}
+
+
+.button-group {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 10px;
+	margin: 20px 0;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+pre {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+    border: 1px solid #ddd;
+    color: #333;
+}
+
+.module-badges {
+    margin-top: 20px;
+}
+
+.module-badges a {
+    display: inline-block;
+    background: #e9ecef;
+    color: #007bff;
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin: 5px 5px 0 0;
+    font-size: 14px;
+    transition: background 0.2s;
+}
+
+.module-badges a:hover {
+    background: #d6d8db;
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #888;
+    text-align: center;
+}
+
+.logo {
+	width: 65px;
+	height: 65px;
+	margin: 0;
+}
+
+

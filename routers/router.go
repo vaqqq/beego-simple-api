@@ -11,6 +11,6 @@ func init() {
 
 	beego.Router("/hello", &controllers.HelloController{}, "get:GetHello")
 	beego.Router("/time", &controllers.TimeController{}, "get:GetTime")
-	beego.Router("/post", &controllers.PostController{}, "get:PostMessage")
+	beego.Router("/post", &controllers.PostController{}, "post:PostMessage")
 
 }
