@@ -9,6 +9,8 @@
 # Build-Cache
 /go-build/
 /vendor/
+/GoApp.tar.gz
+/GoApp.exe
 
 # IDE/Editoren (z. B. VSCode, JetBrains, etc.)
 .vscode/
