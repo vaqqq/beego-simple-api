@@ -1,0 +1,35 @@
+# Binaries
+*.exe
+*.exe~
+*.out
+*.dll
+*.so
+*.dylib
+
+# Build-Cache
+/go-build/
+/vendor/
+
+# IDE/Editoren (z. B. VSCode, JetBrains, etc.)
+.vscode/
+.idea/
+*.swp
+*.log
+
+# OS-Dateien
+.DS_Store
+Thumbs.db
+
+# Test-Dateien
+*.test
+
+# Konfigs/Secrets (optional – falls vorhanden)
+conf/*.local
+.env
+.env.*
+
+# Coverage Reports
+coverage.out
+
+# Go Modul Cache (nur lokal, kein Vendor-Verzeichnis!)
+**/pkg/mod/
