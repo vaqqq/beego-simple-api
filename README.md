@@ -54,23 +54,9 @@ message=HelloFromFrontend
 You can test all API endpoints through the built-in web interface:  
 `http://localhost:8080/`
 
-Features:
-- Buttons to trigger GET and POST requests
-- Input field for sending messages via POST
-- Response display area
-- Technology and GitHub links
-
 
 ## Built With
 - [Beego v2](https://beego.wiki/)
 - [Go 1.20+](https://golang.org/dl/)
 - [Rate Limiting (golang.org/x/time/rate)](https://pkg.go.dev/golang.org/x/time/rate)
 - [Beego XSRF Protection](https://beego.wiki/docs/mvc/controller/xsrf/)
-
-
-## Contact
-GitHub: [@vaqqq](https://github.com/vaqqq)
-
-
-## License
-MIT License – free to use, modify, and distribute.
